@@ -1,0 +1,39 @@
+Spatial Data Visualization and Query Platform
+
+Description
+This platform has been developed as part of the Readiness project "Initiative for Climate Resilience of Livestock Communities and Patagonian Grasslands." Its objective is to integrate biophysical, social, and productive information into an interactive interface, facilitating territorial analysis and decision-making to strengthen the climate resilience of livestock communities and grasslands in Argentine Patagonia.
+The platform is based on Google Earth Engine (GEE), a cloud service that enables the analysis of large volumes of geospatial data.
+
+Main Features
+
+The application organizes information into three main dimensions:
+
+Biophysical: Environmental and ecological data of the region.
+Social: Demographic and socioeconomic data.
+Productive: Information on agricultural production and land use.
+Within the platform, the following tools are available:
+
+Spatial Information Visualization: Overlaying information layers.
+Point Data Query: Retrieve specific data by clicking on the map.
+Community Information Query: Summary of environmental and socioeconomic data for each community.
+Climate Inspector: Visualization of historical climate variables and future climate change projections.
+Climate Change Indicators: Evaluations of aridity, extreme temperatures, and extreme precipitation in each community.
+Platform Access
+The platform is available online at the following link:
+https://ee-readinesspatagonia.projects.earthengine.app/view/visualizador-readiness-v10
+
+Requirements
+To view and use the platform, it is recommended to have:
+
+An updated web browser (Google Chrome, Mozilla Firefox, Edge).
+A stable internet connection.
+Code Structure
+plataforma-gee-readiness/
+
+├── scripts/ # Scripts for the main functions in the GEE app
+├── LICENSE # Project license
+├── README.md # Project description
+
+Contact
+For inquiries or issue reports with the platform, contact Sebastián A. Otta:
+📧 sebaotta.irnr@gmail.com
