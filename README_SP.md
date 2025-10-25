@@ -5,25 +5,25 @@ Esta plataforma ha sido desarrollada en el marco del proyecto Readiness “Inici
 La plataforma está basada en Google Earth Engine (GEE), un servicio en la nube que permite el análisis de grandes volúmenes de datos geoespaciales.
 
 Funcionalidades principales
-
 La aplicación organiza la información en tres dimensiones principales:
 - Biofísica: Información ambiental y ecológica de la región.
 - Social: Datos demográficos y socioeconómicos.
 - Productiva: Información sobre producción agropecuaria y uso del suelo.
 
 Dentro de la plataforma, se incluyen herramientas para:
-Visualización de Información Espacial: Superposición de capas de información.
-Consulta de Información Puntual: Obtener datos específicos al hacer clic en el mapa.
-Consulta de Información de Comunidades: Resumen de datos ambientales y socioeconómicos de cada comunidad.
-Inspector Climático: Visualización de variables climáticas históricas y proyecciones futuras de cambio climático.
-Semáforos de Cambio Climático: Evaluaciones sobre aridez, temperaturas extremas y precipitaciones extremas en cada comunidad.
+- Visualización de Información Espacial: Superposición de capas de información.
+- Consulta de Información Puntual: Obtener datos específicos al hacer clic en el mapa.
+- Consulta de Información de Comunidades: Resumen de datos ambientales y socioeconómicos de cada comunidad.
+- Inspector Climático: Visualización de variables climáticas históricas y proyecciones futuras de cambio climático.
+- Semáforos de Cambio Climático: Evaluaciones sobre aridez, temperaturas extremas y precipitaciones extremas en cada comunidad.
 
 Acceso a la Plataforma
-La plataforma se encuentra disponible en línea en el siguiente enlace: https://ee-readinesspatagonia.projects.earthengine.app/view/visualizador-readiness-v10
+La plataforma se encuentra disponible en línea en: https://ee-readinesspatagonia.projects.earthengine.app/view/visualizador-readiness-v10.
+La plataforma también se presenta en el sitio web de la iniciativa junto con tableros de información complementarios: https://www.pastizalespatagonicos.com/paginas/visor-datos.html 
 
 Requisitos
 Para visualizar y utilizar la plataforma, se recomienda:
-Un navegador actualizado (Google Chrome, Mozilla Firefox, Edge).
+Un navegador actualizado (Google Chrome, Mozilla Firefox o Edge).
 Conexión a Internet estable.
 
 Estructura del Código
